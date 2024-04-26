@@ -1,11 +1,4 @@
-﻿using ProdVeiculo.domain.entity.Enum;
-using ProdVeiculo.domain.entity;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using ProdVeiculo.Application.DTOs;
+﻿using ProdVeiculo.Application.DTOs;
 using System.ComponentModel.DataAnnotations;
 
 namespace ProdVeiculo.Test.DTO
